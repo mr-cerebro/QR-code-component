@@ -24,7 +24,7 @@ In this project, I developed a modern and responsive component that allows users
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [Add solution URL here](https://qr-code-component-gold-mu.vercel.app/)
 
 ## My process
 
@@ -66,6 +66,6 @@ Adopting agile practices like CD motivates me to regularly contribute to signifi
 
 ## Author
 
-- LinkedIn - [Add your name here](https://www.linkedin.com/in/mr-cerebro/)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/mr-cerebro)
-- Twitter - [@yourusername](https://twitter.com/PauloPe65041263)
+- LinkedIn - [Paulo Pessoa](https://www.linkedin.com/in/mr-cerebro/)
+- Frontend Mentor - [@mr-cerebro](https://www.frontendmentor.io/profile/mr-cerebro)
+- Twitter - [@PauloPe65041263](https://twitter.com/PauloPe65041263)
