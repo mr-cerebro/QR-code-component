@@ -24,7 +24,7 @@ In this project, I developed a modern and responsive component that allows users
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://qr-code-component-gold-mu.vercel.app/)
+- Solution URL: [QR-CODE SOLUTION](https://qr-code-component-gold-mu.vercel.app/)
 
 ## My process
 
